@@ -1,4 +1,5 @@
 # view-of-the-world
+So, I did get started, and it's a blast! - Joe
 
 Hello, let's get started!
 
